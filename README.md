@@ -1,0 +1,2 @@
+# Welcome to the javascript-practice 
+ This repository contains a collection of test JavaScript files, carefully crafted to help new learners kickstart their journey into the world of JavaScript. Whether you're just getting started or looking to refine your skills, these hands-on exercises will guide you through the basics and beyond, enabling you to build a strong foundation in JavaScript programming.
